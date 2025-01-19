@@ -141,8 +141,5 @@ koyeb logs -a <your-app-name>
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For questions or support, reach out to:
-- **Name**: Jai Prabhu
-- **Email**: <your-email@example.com>
+
 
