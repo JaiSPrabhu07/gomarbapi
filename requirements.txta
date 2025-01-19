@@ -1,0 +1,6 @@
+Flask==2.2.3
+playwright==1.37.1
+openai==0.28.0
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
